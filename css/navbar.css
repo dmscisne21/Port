@@ -1,4 +1,23 @@
 .navbar {
-    background-color: var(--red);
+    background-color: var(--silver);
     font-family: 'Montserrat', sans-serif;
+    text-decoration: none ;
 }
+
+.navbar {
+    border-radius:0px;
+    margin-bottom: 0px;
+  }
+  .navbar-brand , ul.nav{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .navbar-brand, .navbar-default .navbar-nav > li > a {
+      font-size: 18px;
+      font-weight: 300;
+  }
+a:link{color: red;}
+a{color: red;}
+a:visited{
+  color: red;
+}
+  

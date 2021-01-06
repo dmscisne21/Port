@@ -1,0 +1,45 @@
+#about{
+    background-image: url(https://raw.githubusercontent.com/hash004/freecodecamp/master/portfolioPage/images/about.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 50%;
+    padding-bottom: -100px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+  }
+  
+    #about h1{
+      font-size: 3em;
+      text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                   0px 8px 13px rgba(0,0,0,0.5),
+                   0px 18px 23px rgba(0,0,0,0.1);
+                   font-family: 'Montserrat', sans-serif;              
+    }
+  
+    #about p{
+      font-size: 2em;
+      text-align: absolute;
+      font-family: 'Montserrat', sans-serif;
+      line-height: 1.5em;
+      position: relative;
+      top: 375px;
+      right: 60px;
+    }
+  
+    #about img{
+      padding: 10px;
+      /*max-width: 30px;*/
+      font-family: 'Montserrat', sans-serif;
+    }
+  
+  #white-bg{
+    /*background-color: rgba(0,0,0, 0.5);
+    border-radius: 20px;
+    margin-right: 10px;*/
+    float: left;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 6% 2%;
+    font-family: 'Montserrat', sans-serif;
+  }
